@@ -30,5 +30,5 @@ This project is a simple clone of Amazon's homepage created using only HTML and 
 - Improve styling with CSS animations and transitions.
 
 ## Screenshots
-*Add screenshots here to show what the project looks like.*
+*N/A*
 
