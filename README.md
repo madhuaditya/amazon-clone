@@ -16,7 +16,7 @@ This project is a simple clone of Amazon's homepage created using only HTML and 
 ## How to Run
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/amazon-clone.git
+    git clone https://github.com/madhuaditya/amazon-clone.git
     ```
 2. Navigate to the project folder:
     ```bash
